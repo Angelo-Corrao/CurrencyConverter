@@ -22,10 +22,9 @@
         android:layout_width="160dp"
         android:layout_height="46dp"
         android:layout_marginStart="4dp"
-        android:ems="10"
         android:gravity="center"
         android:hint="Insert Value"
-        android:inputType="number"
+        android:inputType="numberDecimal"
         app:layout_constraintBaseline_toBaselineOf="@+id/currencySpinner"
         app:layout_constraintStart_toStartOf="parent" />
 
